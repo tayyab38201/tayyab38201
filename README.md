@@ -48,11 +48,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tayyab38201&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ## 📫 Connect With Me
 
 <div align="center">
