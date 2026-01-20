@@ -49,7 +49,6 @@
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## 📊 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tayyab38201&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
