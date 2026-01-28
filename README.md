@@ -5,6 +5,7 @@
 </div>
 
 ## 🚀 About Me
+https://tayyab38201-portfolio.netlify.app/
 
 - 💻 I'm a passionate **Software Engineer** specializing in building exceptional digital experiences
 - 🌱 Currently learning **Advanced System Design** and **AI/ML**
